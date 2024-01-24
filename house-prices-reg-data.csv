@@ -1,0 +1,21 @@
+name,size,bedrooms,bathrooms,garage_size,price
+house A,64,3,2,2,430000
+house B,42,2,1,1,260000
+house C,53,3,2,2,330000
+house D,42,2,1,1,255000
+house E,64,3,2,2,410000
+house F,70,4,3,2,450000
+house G,38,2,1,1,245000
+house H,55,3,1,2,360000
+house I,48,2,1,1,305000
+house J,60,3,2,2,390000
+house K,33,2,1,0,220000
+house L,58,3,2,2,375000
+house M,46,2,1,1,290000
+house N,62,3,2,2,400000
+house O,35,1,1,0,230000
+house P,51,3,2,2,340000
+house Q,45,2,1,1,295000
+house R,67,4,3,2,430000
+house S,40,2,1,1,255000
+house T,53,3,2,2,345000
